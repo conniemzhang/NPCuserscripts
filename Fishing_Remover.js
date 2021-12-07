@@ -2,7 +2,7 @@
 // @name         Fishing Junk Item Remover
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  Automatically donates/discards/SDBs items from fishing when you click on them
 // @author       You
 // @match        https://neopetsclassic.com/inventory/
 // @icon         https://www.google.com/s2/favicons?domain=neopetsclassic.com
